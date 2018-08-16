@@ -143,7 +143,6 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyZGZjMzYw" projecturn="a.cGVyc29uYWw6dWUyZGZjMzYwIzIwMTgwNjA4MTM1NTEzMjgx" f3durn="urn:adsk.wipprod:dm.lineage:JRjaoRD7RVuUx-tBrA_zYw" pcbguid="0efbdfdc-33c0-407b-bf5a-d75679907db6" lastpulledtime="" lastsyncedchangeguid="6c4e8119-b60d-131b-c593-acf392043e42"/>
 <plain>
 <text x="1" y="32" size="0.8128" layer="21">VCC     GND
 RST     SCK
@@ -1226,11 +1225,6 @@ which will not be processed correctly with this version.
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
 with this version.
-</note>
-<note version="8.3" severity="warning">
-Since Version 8.3, EAGLE supports Fusion synchronisation.
-This feature will not be available in this version and saving
-the document will break the link to the Fusion PCB feature.
 </note>
 <note version="8.3" severity="warning">
 Since Version 8.3, EAGLE supports URNs for individual library
