@@ -290,61 +290,33 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 <vertex x="1.8364" y="-0.0051" curve="-90.012967"/>
 </polygon>
 </package>
-<package name="RESISTOR_0204/5" urn="urn:adsk.eagle:footprint:3491421/1" library_version="62">
+<package name="RESISTOR_0207/10" urn="urn:adsk.eagle:footprint:5426337/1" library_version="69">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
-type 0204, grid 5 mm</description>
-<wire x1="2.54" y1="0" x2="2.032" y2="0" width="0.508" layer="51"/>
-<wire x1="-2.54" y1="0" x2="-2.032" y2="0" width="0.508" layer="51"/>
-<wire x1="-1.778" y1="0.635" x2="-1.524" y2="0.889" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-1.778" y1="-0.635" x2="-1.524" y2="-0.889" width="0.1524" layer="21" curve="90"/>
-<wire x1="1.524" y1="-0.889" x2="1.778" y2="-0.635" width="0.1524" layer="21" curve="90"/>
-<wire x1="1.524" y1="0.889" x2="1.778" y2="0.635" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-1.778" y1="-0.635" x2="-1.778" y2="0.635" width="0.1524" layer="51"/>
-<wire x1="-1.524" y1="0.889" x2="-1.27" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="-1.143" y1="0.762" x2="-1.27" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="-1.524" y1="-0.889" x2="-1.27" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="-1.143" y1="-0.762" x2="-1.27" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="1.143" y1="0.762" x2="1.27" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="1.143" y1="0.762" x2="-1.143" y2="0.762" width="0.1524" layer="21"/>
-<wire x1="1.143" y1="-0.762" x2="1.27" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="1.143" y1="-0.762" x2="-1.143" y2="-0.762" width="0.1524" layer="21"/>
-<wire x1="1.524" y1="0.889" x2="1.27" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="1.524" y1="-0.889" x2="1.27" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="1.778" y1="-0.635" x2="1.778" y2="0.635" width="0.1524" layer="51"/>
-<rectangle x1="-2.032" y1="-0.254" x2="-1.778" y2="0.254" layer="51"/>
-<rectangle x1="1.778" y1="-0.254" x2="2.032" y2="0.254" layer="51"/>
-<pad name="1" x="-2.54" y="0" drill="0.8128" shape="octagon"/>
-<pad name="2" x="2.54" y="0" drill="0.8128" shape="octagon"/>
-<text x="-2.0066" y="1.1684" size="0.9906" layer="25" ratio="10">&gt;NAME</text>
-<text x="-2.1336" y="-2.3114" size="0.9906" layer="27" ratio="10">&gt;VALUE</text>
-</package>
-<package name="RESISTOR_0204/7" urn="urn:adsk.eagle:footprint:3491420/1" library_version="62">
-<description>&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
-type 0204, grid 7.5 mm</description>
-<wire x1="3.81" y1="0" x2="2.921" y2="0" width="0.508" layer="51"/>
-<wire x1="-3.81" y1="0" x2="-2.921" y2="0" width="0.508" layer="51"/>
-<wire x1="-2.54" y1="0.762" x2="-2.286" y2="1.016" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-2.54" y1="-0.762" x2="-2.286" y2="-1.016" width="0.1524" layer="21" curve="90"/>
-<wire x1="2.286" y1="-1.016" x2="2.54" y2="-0.762" width="0.1524" layer="21" curve="90"/>
-<wire x1="2.286" y1="1.016" x2="2.54" y2="0.762" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-2.54" y1="-0.762" x2="-2.54" y2="0.762" width="0.1524" layer="21"/>
-<wire x1="-2.286" y1="1.016" x2="-1.905" y2="1.016" width="0.1524" layer="21"/>
-<wire x1="-1.778" y1="0.889" x2="-1.905" y2="1.016" width="0.1524" layer="21"/>
-<wire x1="-2.286" y1="-1.016" x2="-1.905" y2="-1.016" width="0.1524" layer="21"/>
-<wire x1="-1.778" y1="-0.889" x2="-1.905" y2="-1.016" width="0.1524" layer="21"/>
-<wire x1="1.778" y1="0.889" x2="1.905" y2="1.016" width="0.1524" layer="21"/>
-<wire x1="1.778" y1="0.889" x2="-1.778" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="1.778" y1="-0.889" x2="1.905" y2="-1.016" width="0.1524" layer="21"/>
-<wire x1="1.778" y1="-0.889" x2="-1.778" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="2.286" y1="1.016" x2="1.905" y2="1.016" width="0.1524" layer="21"/>
-<wire x1="2.286" y1="-1.016" x2="1.905" y2="-1.016" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-0.762" x2="2.54" y2="0.762" width="0.1524" layer="21"/>
-<rectangle x1="2.54" y1="-0.254" x2="2.921" y2="0.254" layer="21"/>
-<rectangle x1="-2.921" y1="-0.254" x2="-2.54" y2="0.254" layer="21"/>
-<pad name="1" x="-3.81" y="0" drill="0.8128" shape="octagon"/>
-<pad name="2" x="3.81" y="0" drill="0.8128" shape="octagon"/>
-<text x="-2.54" y="1.2954" size="0.9906" layer="25" ratio="10">&gt;NAME</text>
-<text x="-1.6256" y="-0.4826" size="0.9906" layer="27" ratio="10">&gt;VALUE</text>
+type 0207, grid 10 mm</description>
+<wire x1="5.08" y1="0" x2="4.064" y2="0" width="0.6096" layer="51"/>
+<wire x1="-5.08" y1="0" x2="-4.064" y2="0" width="0.6096" layer="51"/>
+<wire x1="-3.175" y1="0.889" x2="-2.921" y2="1.143" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-3.175" y1="-0.889" x2="-2.921" y2="-1.143" width="0.1524" layer="21" curve="90"/>
+<wire x1="2.921" y1="-1.143" x2="3.175" y2="-0.889" width="0.1524" layer="21" curve="90"/>
+<wire x1="2.921" y1="1.143" x2="3.175" y2="0.889" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-3.175" y1="-0.889" x2="-3.175" y2="0.889" width="0.1524" layer="21"/>
+<wire x1="-2.921" y1="1.143" x2="-2.54" y2="1.143" width="0.1524" layer="21"/>
+<wire x1="-2.413" y1="1.016" x2="-2.54" y2="1.143" width="0.1524" layer="21"/>
+<wire x1="-2.921" y1="-1.143" x2="-2.54" y2="-1.143" width="0.1524" layer="21"/>
+<wire x1="-2.413" y1="-1.016" x2="-2.54" y2="-1.143" width="0.1524" layer="21"/>
+<wire x1="2.413" y1="1.016" x2="2.54" y2="1.143" width="0.1524" layer="21"/>
+<wire x1="2.413" y1="1.016" x2="-2.413" y2="1.016" width="0.1524" layer="21"/>
+<wire x1="2.413" y1="-1.016" x2="2.54" y2="-1.143" width="0.1524" layer="21"/>
+<wire x1="2.413" y1="-1.016" x2="-2.413" y2="-1.016" width="0.1524" layer="21"/>
+<wire x1="2.921" y1="1.143" x2="2.54" y2="1.143" width="0.1524" layer="21"/>
+<wire x1="2.921" y1="-1.143" x2="2.54" y2="-1.143" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="-0.889" x2="3.175" y2="0.889" width="0.1524" layer="21"/>
+<pad name="1" x="-5.08" y="0" drill="0.8128" shape="octagon"/>
+<pad name="2" x="5.08" y="0" drill="0.8128" shape="octagon"/>
+<text x="-3.048" y="1.524" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.2606" y="-0.635" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="3.175" y1="-0.3048" x2="4.0386" y2="0.3048" layer="21"/>
+<rectangle x1="-4.0386" y1="-0.3048" x2="-3.175" y2="0.3048" layer="21"/>
 </package>
 <package name="LED_5MM" urn="urn:adsk.eagle:footprint:3634134/1" library_version="62">
 <description>&lt;B&gt;LED 5mm PTH&lt;/B&gt;&lt;p&gt;
@@ -548,18 +520,11 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 <packageinstance name="CAP-PTH-SMALL-KIT"/>
 </packageinstances>
 </package3d>
-<package3d name="RESISTOR_0204/5" urn="urn:adsk.eagle:package:3491543/2" type="model" library_version="62">
+<package3d name="RESISTOR_0207/10" urn="urn:adsk.eagle:package:5426338/2" type="model" library_version="69">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
-type 0204, grid 5 mm</description>
+type 0207, grid 10 mm</description>
 <packageinstances>
-<packageinstance name="RESISTOR_0204/5"/>
-</packageinstances>
-</package3d>
-<package3d name="RESISTOR_0204/7" urn="urn:adsk.eagle:package:3491542/2" type="model" library_version="62">
-<description>&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
-type 0204, grid 7.5 mm</description>
-<packageinstances>
-<packageinstance name="RESISTOR_0204/7"/>
+<packageinstance name="RESISTOR_0207/10"/>
 </packageinstances>
 </package3d>
 <package3d name="LED_5MM" urn="urn:adsk.eagle:package:3634149/2" type="model" library_version="62">
@@ -947,31 +912,19 @@ type 0204, grid 7.5 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="RESISTOR_R-US_" urn="urn:adsk.eagle:component:3491637/6" prefix="R" uservalue="yes" library_version="62">
+<deviceset name="RESISTOR_R-US_" urn="urn:adsk.eagle:component:3491637/9" prefix="R" uservalue="yes" library_version="69">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, American symbol</description>
 <gates>
 <gate name="G$1" symbol="R-US" x="0" y="0"/>
 </gates>
 <devices>
-<device name="0204/5" package="RESISTOR_0204/5">
+<device name="" package="RESISTOR_0207/10">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3491543/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="0204/7" package="RESISTOR_0204/7">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:3491542/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:5426338/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -1155,7 +1108,7 @@ type 0204, grid 7.5 mm</description>
 <part name="C1" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="0.1UF" device="-KIT-EZ-50V-20%" package3d_urn="urn:adsk.eagle:package:3493607/2" value="470pF"/>
 <part name="C2" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="0.1UF" device="-KIT-EZ-50V-20%" package3d_urn="urn:adsk.eagle:package:3493607/2" value="0.01uF"/>
 <part name="C3" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="0.1UF" device="-KIT-EZ-50V-20%" package3d_urn="urn:adsk.eagle:package:3493607/2" value="1uF"/>
-<part name="R1" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="RESISTOR_R-US_" device="0204/7" package3d_urn="urn:adsk.eagle:package:3491542/2"/>
+<part name="R1" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="RESISTOR_R-US_" device="" package3d_urn="urn:adsk.eagle:package:5426338/2"/>
 <part name="D1" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:3634149/2"/>
 <part name="GND1" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="GND" device=""/>
 <part name="U$1" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="3XAAA_BATTERY_HOLDER" device="" package3d_urn="urn:adsk.eagle:package:3679273/4"/>
@@ -1164,6 +1117,8 @@ type 0204, grid 7.5 mm</description>
 <part name="U2" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="AQY212EH" device="" package3d_urn="urn:adsk.eagle:package:4126881/2"/>
 <part name="U$4" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="HEADER_2X03" device="" package3d_urn="urn:adsk.eagle:package:4704386/2"/>
 <part name="U$5" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="HEADER_1X02" device="" package3d_urn="urn:adsk.eagle:package:4737896/2"/>
+<part name="R2" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="RESISTOR_R-US_" device="" package3d_urn="urn:adsk.eagle:package:5426338/2" value="2k"/>
+<part name="R3" library="MMC Eagle" library_urn="urn:adsk.eagle:library:3491419" deviceset="RESISTOR_R-US_" device="" package3d_urn="urn:adsk.eagle:package:5426338/2" value="1k"/>
 </parts>
 <sheets>
 <sheet>
@@ -1180,10 +1135,12 @@ type 0204, grid 7.5 mm</description>
 <instance part="GND1" gate="1" x="38.1" y="-7.62"/>
 <instance part="U$1" gate="G$1" x="264.16" y="12.7" rot="R270"/>
 <instance part="U$2" gate="G$1" x="266.7" y="53.34" rot="R270"/>
-<instance part="U$3" gate="G$1" x="330.2" y="27.94"/>
-<instance part="U2" gate="A" x="271.78" y="38.1"/>
+<instance part="U$3" gate="G$1" x="350.52" y="27.94"/>
+<instance part="U2" gate="A" x="292.1" y="38.1"/>
 <instance part="U$4" gate="A" x="144.78" y="15.24"/>
 <instance part="U$5" gate="G$1" x="53.34" y="55.88" rot="R180"/>
+<instance part="R2" gate="G$1" x="271.78" y="38.1"/>
+<instance part="R3" gate="G$1" x="287.02" y="38.1"/>
 </instances>
 <busses>
 </busses>
@@ -1272,14 +1229,14 @@ type 0204, grid 7.5 mm</description>
 <wire x1="264.16" y1="7.62" x2="264.16" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="264.16" y1="-2.54" x2="43.18" y2="-2.54" width="0.1524" layer="91"/>
 <junction x="43.18" y="-2.54"/>
-<pinref part="U2" gate="A" pin="2"/>
-<wire x1="274.32" y1="17.78" x2="271.78" y2="17.78" width="0.1524" layer="91"/>
-<wire x1="271.78" y1="17.78" x2="271.78" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="271.78" y1="-2.54" x2="264.16" y2="-2.54" width="0.1524" layer="91"/>
-<junction x="264.16" y="-2.54"/>
 <pinref part="U$4" gate="A" pin="3"/>
 <wire x1="137.16" y1="15.24" x2="43.18" y2="15.24" width="0.1524" layer="91"/>
 <junction x="43.18" y="15.24"/>
+<pinref part="U2" gate="A" pin="2"/>
+<wire x1="294.64" y1="17.78" x2="274.32" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="17.78" x2="274.32" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="-2.54" x2="264.16" y2="-2.54" width="0.1524" layer="91"/>
+<junction x="264.16" y="-2.54"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -1292,12 +1249,12 @@ type 0204, grid 7.5 mm</description>
 <net name="N$6" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="PB2_(SCK/USCK/SCL/ADC1/T0/INT0/PCINT2)"/>
-<pinref part="U2" gate="A" pin="1"/>
 <wire x1="251.46" y1="38.1" x2="261.62" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="A" pin="2"/>
-<wire x1="261.62" y1="38.1" x2="274.32" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="17.78" x2="261.62" y2="17.78" width="0.1524" layer="91"/>
 <wire x1="261.62" y1="17.78" x2="261.62" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="266.7" y1="38.1" x2="261.62" y2="38.1" width="0.1524" layer="91"/>
 <junction x="261.62" y="38.1"/>
 </segment>
 </net>
@@ -1305,16 +1262,16 @@ type 0204, grid 7.5 mm</description>
 <segment>
 <pinref part="U2" gate="A" pin="4"/>
 <pinref part="U$3" gate="G$1" pin="SLEEVE"/>
-<wire x1="297.18" y1="38.1" x2="297.18" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="297.18" y1="33.02" x2="317.5" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="317.5" y1="38.1" x2="317.5" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="317.5" y1="33.02" x2="337.82" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="U2" gate="A" pin="3"/>
 <pinref part="U$3" gate="G$1" pin="TIP"/>
-<wire x1="297.18" y1="17.78" x2="297.18" y2="22.86" width="0.1524" layer="91"/>
-<wire x1="297.18" y1="22.86" x2="317.5" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="317.5" y1="17.78" x2="317.5" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="317.5" y1="22.86" x2="337.82" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -1351,6 +1308,20 @@ type 0204, grid 7.5 mm</description>
 <pinref part="U$5" gate="G$1" pin="2"/>
 <wire x1="38.1" y1="38.1" x2="38.1" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="53.34" x2="45.72" y2="53.34" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$11" class="0">
+<segment>
+<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<wire x1="276.86" y1="38.1" x2="281.94" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$14" class="0">
+<segment>
+<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="U2" gate="A" pin="1"/>
+<wire x1="292.1" y1="38.1" x2="294.64" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
